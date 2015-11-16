@@ -1,0 +1,59 @@
+#box{
+     position:fixed;
+     width:600px;
+     height:200px;
+     top:50%;
+     left:50%;
+     margin-left:-300px;
+     margin-top:-100px;
+}
+
+table {
+    width: 100%;
+}
+
+.width-20 td {
+    width: 5%;
+
+}
+
+.buttons {
+    text-align: center;
+    font-size: 1.0em;
+    font-weight: bold;
+    line-height: 200%;
+}
+
+
+.buttons label {
+    text-align: center;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 0.5em;
+    padding-top: .6em;
+    padding-bottom: .6em;
+    color: #fff;
+    background-color: #aaabbb;
+    border-radius: 5px;
+    border: solid #cccccc 1px;
+    box-shadow: 2px 2px 1px #888888;
+}
+
+.buttons a {
+    text-align: center;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 0.5em;
+    padding-top: .6em;
+    padding-bottom: .6em;
+    color: #fff;
+    background-color: #87CEEB;
+    border-radius: 5px;
+    border: solid #cccccc 1px;
+    box-shadow: 2px 2px 1px #888888;
+}
+.buttons a:active {
+    box-shadow: 1px 1px 0px #888888;
+}
