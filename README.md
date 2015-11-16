@@ -18,7 +18,7 @@ Future goals:
  - allow any 2 players who are online to connect and start playing.
  - save games and continue from saved spot. 
  - allow users to give names for themselves and the games.
- - full fledged database. 
+ - fully persistant database. 
  
 Known Issue(s) :
  - Need to fix the autogenerate primary key id for HSQL.
